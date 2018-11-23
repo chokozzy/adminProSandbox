@@ -1,6 +1,5 @@
 import { Component, OnInit, Input } from '@angular/core';
 
-
 @Component({
   selector: 'app-grafico-dona',
   templateUrl: './grafico-dona.component.html',

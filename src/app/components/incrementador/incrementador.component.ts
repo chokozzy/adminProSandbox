@@ -1,5 +1,5 @@
 import { Component, OnInit, Input, Output, EventEmitter, ViewChild, ElementRef } from '@angular/core';
-
+import { element } from 'protractor';
 
 @Component({
   selector: 'app-incrementador',
